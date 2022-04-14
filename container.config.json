@@ -8,8 +8,8 @@
   "policyThreshold": 60,
   "envParams": {},
   "customLogs": "stdout",
-  "dataBaseName":"cook",
+  "dataBaseName":"recipe",
   "executeSQLs":[
-    "CREATE DATABASE IF NOT EXISTS cook;"
+    "CREATE DATABASE IF NOT EXISTS recipe;"
     ]
 }
