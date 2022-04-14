@@ -64,6 +64,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -174,6 +179,8 @@
         <item itemvalue="JUnit.UserRepositoryTest.findByUsername" />
         <item itemvalue="JUnit.UserRepositoryTest" />
         <item itemvalue="JUnit.CookApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.UserRepositoryTest.findByUsername" />
+        <item itemvalue="JUnit.UserRepositoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +262,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1474" height="275" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1649970157748" />
+    <state x="148" y="55" key="MergeDialog" timestamp="1649971859945">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="148" y="55" key="MergeDialog/0.0.1536.816@0.0.1536.816" timestamp="1649971859945" />
+    <state x="476" y="115" key="MultipleFileMergeDialog" timestamp="1649971860961">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="476" y="115" key="MultipleFileMergeDialog/0.0.1536.816@0.0.1536.816" timestamp="1649971860961" />
     <state x="202" y="24" key="SettingsEditor" timestamp="1649961451347">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -263,5 +278,9 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="530" y="91" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.816@0.0.1536.816" timestamp="1649963001115" />
+    <state x="518" y="111" key="git4idea.branch.GitSmartOperationDialog" timestamp="1649971848778">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="518" y="111" key="git4idea.branch.GitSmartOperationDialog/0.0.1536.816@0.0.1536.816" timestamp="1649971848778" />
   </component>
 </project>
