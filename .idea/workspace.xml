@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea518e57-bd1c-41e6-b469-5d20c1ca36d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cook/cook/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cook/cook/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cook/cook/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cook/cook/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cook/cook/repository/UserRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cook/cook/repository/UserRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cook/cook/controller/DefaultController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cook/cook/controller/DefaultController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/cook/cook/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cook/cook/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/cook/cook/mapper/UserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/com/cook/cook/mapper/UserMapperImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +137,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserRepositoryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cook.cook.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cook.cook.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.cook.cook.repository.UserRepositoryTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CookApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cook" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cook.cook.CookApplication" />
@@ -137,10 +163,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.UserRepositoryTest.findByUsername" />
+        <item itemvalue="JUnit.UserRepositoryTest.test" />
         <item itemvalue="JUnit.UserRepositoryTest" />
         <item itemvalue="JUnit.CookApplicationTests.contextLoads" />
         <item itemvalue="JUnit.UserRepositoryTest.findByUsername" />
-        <item itemvalue="JUnit.UserRepositoryTest" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +186,7 @@
       <workItem from="1649878227794" duration="10555000" />
       <workItem from="1649942496582" duration="11850000" />
       <workItem from="1649961480723" duration="9067000" />
+      <workItem from="1650025447083" duration="5441000" />
     </task>
     <servers />
   </component>
@@ -190,38 +217,38 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="488" y="137" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1649958686799" />
-    <state width="1493" height="117" key="GridCell.Tab.0.bottom" timestamp="1650006147813">
+    <state width="1432" height="237" key="GridCell.Tab.0.bottom" timestamp="1650050299487">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1650006147813" />
-    <state width="1493" height="117" key="GridCell.Tab.0.center" timestamp="1650006147813">
+    <state width="1432" height="237" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1650050299487" />
+    <state width="1432" height="237" key="GridCell.Tab.0.center" timestamp="1650050299487">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1650006147813" />
-    <state width="1493" height="117" key="GridCell.Tab.0.left" timestamp="1650006147813">
+    <state width="1432" height="237" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1650050299487" />
+    <state width="1432" height="237" key="GridCell.Tab.0.left" timestamp="1650050299487">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1650006147813" />
-    <state width="1493" height="117" key="GridCell.Tab.0.right" timestamp="1650006147813">
+    <state width="1432" height="237" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1650050299487" />
+    <state width="1432" height="237" key="GridCell.Tab.0.right" timestamp="1650050299487">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1650006147813" />
-    <state width="1493" height="117" key="GridCell.Tab.1.bottom" timestamp="1650006147813">
+    <state width="1432" height="237" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1650050299487" />
+    <state width="1432" height="237" key="GridCell.Tab.1.bottom" timestamp="1650050299487">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1650006147813" />
-    <state width="1493" height="117" key="GridCell.Tab.1.center" timestamp="1650006147813">
+    <state width="1432" height="237" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1650050299487" />
+    <state width="1432" height="237" key="GridCell.Tab.1.center" timestamp="1650050299487">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1650006147813" />
-    <state width="1493" height="117" key="GridCell.Tab.1.left" timestamp="1650006147813">
+    <state width="1432" height="237" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1650050299487" />
+    <state width="1432" height="237" key="GridCell.Tab.1.left" timestamp="1650050299487">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1650006147813" />
-    <state width="1493" height="117" key="GridCell.Tab.1.right" timestamp="1650006147813">
+    <state width="1432" height="237" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1650050299487" />
+    <state width="1432" height="237" key="GridCell.Tab.1.right" timestamp="1650050299487">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="117" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1650006147813" />
+    <state width="1432" height="237" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1650050299487" />
     <state x="148" y="55" key="MergeDialog" timestamp="1649971859945">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -230,10 +257,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="476" y="115" key="MultipleFileMergeDialog/0.0.1536.816@0.0.1536.816" timestamp="1649971860961" />
-    <state x="202" y="24" key="SettingsEditor" timestamp="1649961451347">
+    <state x="202" y="24" key="SettingsEditor" timestamp="1650025420180">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="202" y="24" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1649961451347" />
+    <state x="202" y="24" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1650025420180" />
     <state x="530" y="91" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1649963001116">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
