@@ -17,7 +17,7 @@ RUN mvn -f /app/pom.xml clean package -Dmaven.test.skip=true -Dspring.profiles.a
 # 选择运行时基础镜像
 FROM alpine:3.13
 
-ENV MYSQL_HOST 10.0.224.8
+ENV MYSQL_HOST 10.0.224.12
 ENV MYSQL_USER_NAME recipe
 ENV MYSQL_PASSWORD Recipe2022
 ENV DATABASE_NAME recipe
