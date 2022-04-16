@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea518e57-bd1c-41e6-b469-5d20c1ca36d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cook/cook/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cook/cook/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cook/cook/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cook/cook/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cook/cook/repository/UserRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cook/cook/repository/UserRepositoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cook/cook/controller/DefaultController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cook/cook/controller/DefaultController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cook/cook/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cook/cook/entity/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/com/cook/cook/mapper/UserMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/com/cook/cook/mapper/UserMapperImpl.java" afterDir="false" />
-      =======
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cook/cook/controller/DefaultController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cook/cook/controller/DefaultController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cook/cook/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/cook/cook/controller/UserController.class" afterDir="false" />
-      &gt;&gt;&gt;&gt;&gt;&gt;&gt; parent of 9af893f (修改Dockerfile暴露端口4)
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,6 +178,7 @@
       <workItem from="1649942496582" duration="11850000" />
       <workItem from="1649961480723" duration="9067000" />
       <workItem from="1650025447083" duration="5441000" />
+      <workItem from="1650089904419" duration="1073000" />
     </task>
     <servers />
   </component>
@@ -226,38 +213,38 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="488" y="137" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1649958686799" />
-    <state width="1343" height="221" key="GridCell.Tab.0.bottom" timestamp="1649990297476">
+    <state width="1434" height="177" key="GridCell.Tab.0.bottom" timestamp="1650090192785">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1343" height="221" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1649990297476" />
-    <state width="1343" height="221" key="GridCell.Tab.0.center" timestamp="1649990297476">
+    <state width="1434" height="177" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1650090192785" />
+    <state width="1434" height="177" key="GridCell.Tab.0.center" timestamp="1650090192785">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1343" height="221" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1649990297476" />
-    <state width="1343" height="221" key="GridCell.Tab.0.left" timestamp="1649990297475">
+    <state width="1434" height="177" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1650090192785" />
+    <state width="1434" height="177" key="GridCell.Tab.0.left" timestamp="1650090192785">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1343" height="221" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1649990297475" />
-    <state width="1343" height="221" key="GridCell.Tab.0.right" timestamp="1649990297476">
+    <state width="1434" height="177" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1650090192785" />
+    <state width="1434" height="177" key="GridCell.Tab.0.right" timestamp="1650090192785">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1343" height="221" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1649990297476" />
-    <state width="1343" height="221" key="GridCell.Tab.1.bottom" timestamp="1649990297476">
+    <state width="1434" height="177" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1650090192785" />
+    <state width="1434" height="177" key="GridCell.Tab.1.bottom" timestamp="1650090192786">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1343" height="221" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1649990297476" />
-    <state width="1343" height="221" key="GridCell.Tab.1.center" timestamp="1649990297476">
+    <state width="1434" height="177" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1650090192786" />
+    <state width="1434" height="177" key="GridCell.Tab.1.center" timestamp="1650090192785">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1343" height="221" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1649990297476" />
-    <state width="1343" height="221" key="GridCell.Tab.1.left" timestamp="1649990297476">
+    <state width="1434" height="177" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1650090192785" />
+    <state width="1434" height="177" key="GridCell.Tab.1.left" timestamp="1650090192785">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1343" height="221" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1649990297476" />
-    <state width="1343" height="221" key="GridCell.Tab.1.right" timestamp="1649990297476">
+    <state width="1434" height="177" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1650090192785" />
+    <state width="1434" height="177" key="GridCell.Tab.1.right" timestamp="1650090192785">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1343" height="221" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1649990297476" />
+    <state width="1434" height="177" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1650090192785" />
     <state x="148" y="55" key="MergeDialog" timestamp="1649971859945">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
